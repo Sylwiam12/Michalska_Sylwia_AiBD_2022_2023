@@ -1,1 +1,1 @@
-# Michalska_Sylwia_AiBD_2022
+# Zadania z ćwiczeń laboratoryjnych z AiBD
