@@ -1,3 +1,3 @@
 
-# Zadania z ćwiczeń laboratoryjnych z AiBD
+# Analysis and databases-lab classes
 
